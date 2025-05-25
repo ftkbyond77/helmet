@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+Helmet_Dataset/train/images/*.png
+Helmet_Dataset/train/labels/*.txt
+
+Helmet_Dataset/val/images/*.png
+Helmet_Dataset/val/labels/*.txt
